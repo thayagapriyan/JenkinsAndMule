@@ -65,7 +65,7 @@
 						interface -->
 					<muleVersion>3.7.0</muleVersion>
 					<username>palanisam</username>
-					<password>Tplpriyan@93</password>
+					<password>Tplpriyan93</password>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
 				</configuration>
